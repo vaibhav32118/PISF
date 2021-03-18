@@ -1,0 +1,125 @@
+#title {
+  background-color:#ff99cc;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.title-para {
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% 10%;
+}
+
+body {
+  font-family: Montserrat;
+}
+
+/* navigation-bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+
+.profile {
+  width:100%;
+  height:90%;
+  border: 5px solid grey ;
+  border-radius: 20px;
+}
+
+
+#features {
+  padding: 7% 15%;
+  background-color:white;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.icon {
+  color: rgb(77, 72, 72);
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: grey;
+}
+
+/* Testimonial's Section */
+
+#testimonials {
+  text-align: center;
+  background-color: #ff99cc;
+  color: #fff;
+}
+
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* call to action */
+#donate {
+  background-color: #ff99cc;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.donate-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* footer section */
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* Responsiveness */
+@media (max-width: 1080px) {
+  #title {
+    text-align: center;
+  }
+  .profile {
+    position: static;
+    
+  }
+}

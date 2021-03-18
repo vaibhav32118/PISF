@@ -1,4 +1,4 @@
 # Payment_Integration
-This website has RazorPay payment integration for demo purpose.
+This website has RazorPay payment integration, build for testing & demo purpose.
 
-It is Available at : https://vaibhav32118.github.io/PISF/
+Website is live at : https://vaibhav32118.github.io/PISF/
